@@ -6,7 +6,7 @@
     <Authors>Maik van der Gaag</Authors>
     <Description>Templates for Bicep extensions</Description>
     <PackageTags>Bicep, Templates, Extensions</PackageTags>
-    <PackageProjectUrl>https://github.com/maikvandergaag/bicep.extension.template</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/maikvandergaag/bicep-extension-template</PackageProjectUrl>
     <PackageType>Template</PackageType>
     <TargetFramework>net9.0</TargetFramework>
     <IncludeContentInPack>true</IncludeContentInPack>

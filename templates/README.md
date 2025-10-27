@@ -135,8 +135,8 @@ dotnet new uninstall Bicep.Extension.Templates
 ## Support
 
 For issues, questions, or contributions, please visit:
-- GitHub Repository: https://github.com/maikvandergaag/bicep.extension.template
-- NuGet Package: https://www.nuget.org/packages/Bicep.Extension.Templates
+- GitHub Repository: https://github.com/maikvandergaag/bicep-extension-template
+- NuGet Package: https://www.nuget.org/packages/bicep-extension-templates
 
 ## Additional Resources
 
