@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <PackageId>Bicep.Extension.Templates</PackageId>
-    <PackageVersion>1.0</PackageVersion>
     <Title>Bicep Extension Templates</Title>
     <Authors>Maik van der Gaag</Authors>
     <Description>Templates for Bicep extensions</Description>

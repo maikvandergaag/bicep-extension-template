@@ -22,7 +22,7 @@ jobs:
       - name: Pack
         run: |
           cd templates
-          dotnet pack --configuration Release /p:Version=${{ github.event.release.tag_name }} --output ../artifacts
+          dotnet pack --configuration release /p:Version=${{ github.event.release.tag_name }} --output ../artifacts
       - uses: actions/upload-artifact@v4
         name: Upload Package
         with:
