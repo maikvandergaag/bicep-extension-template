@@ -28,5 +28,5 @@ jobs:
         with:
           name: package
           path: artifacts/*.nupkg
-          #     - name: NuGet push
-#        run: dotnet nuget push artifacts/my-sdk.nupkg --api-key ${{steps.login.outputs.NUGET_API_KEY}} --source https://api.nuget.org/v3/index.json
+      - name: NuGet push
+        run: dotnet nuget push artifacts/Bicep.Extension.Templates.${{ github.event.release.tag_name }}.nupkg --api-key ${{steps.login.outputs.NUGET_API_KEY}} --source https://api.nuget.org/v3/index.json
