@@ -3,7 +3,7 @@ using Bicep.Local.Extension.Types.Attributes;
 using System.Text.Json.Serialization;
 
 namespace Bicep.Extension.Model {
-    [ResourceType("exampleresource")]
+    [ResourceType("Example")]
     public class ExampleResource : ExampleResourceIdentifiers
     {
 

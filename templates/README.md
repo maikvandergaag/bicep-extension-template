@@ -146,7 +146,8 @@ For issues, questions, or contributions, please visit:
 
 ## Version
 
-**1.0** - Initial release with parameterized extension and resource naming
+**1.0.0** - Initial release with parameterized extension and resource naming
+**1.0.2** - Fixed renaming of resource an fixed file path in publish.ps1
 
 ---
 
